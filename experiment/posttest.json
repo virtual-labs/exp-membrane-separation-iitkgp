@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is effect of decreasing membrane resistance on flux?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Constant",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,114 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Some methods to increase flux through the membrane?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Backwashing of membrane",
+        "b": "Stirring in the feed compartment",
+        "c": "Increasing bulk concentration",
+        "d": "Both a and b"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The effect of concentration polarisation is least important in which of the following processes?",
+      "answers": {
+        "a": "Gas separation",
+        "b": "Haemodialysis",
+        "c": "Reverse Osmosis",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the explaination for your choice of answer in Q13 above?",
+      "answers": {
+        "a": "Diffusivity is low in gas phase",
+        "b": "Concentration boundary will not form",
+        "c": "Diffusivity is very high in gas phase",
+        "d": "Both b and c"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If polarisation modulus in a Reverse Osmosis module is unity, the feed side mass transfer coefficient of the solute is",
+      "answers": {
+        "a": "Very large",
+        "b": "Very small",
+        "c": "Is equal to the diffusinal resistance of the membrane",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If reflection coefficient sigma is zero, an osmotic membrane is",
+      "answers": {
+        "a": "Fully permeable",
+        "b": "Impermeable",
+        "c": "Partially permeable to the solute",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does the selectivity of separation change with the increasing membrane thickness?",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains unchanged",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In membrane filtration, the solute molecules are carried to the membrane surface by",
+      "answers": {
+        "a": "Knudsen diffusion",
+        "b": "Fickian diffusion",
+        "c": "Convection",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +135,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How are the rejected solute molecules carried from membrane surface to the bulk?",
+      "answers": {
+        "a": "Convection",
+        "b": "Diffusive transport",
+        "c": "Knudsen diffusion",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "With increased concentration polarisation on a Reverse Osmosis membrane at a constant applied pressure difference, the solvent flux decreases. What happens to the solute flux?",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains unchanged",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
