@@ -1,12 +1,10 @@
 ## Theory
-
- <div class="content" id="experiment-article-section-2-content">
-                            <p style="text-align:left; font-size:18px; font-weight:bold;">MICROFILTRATION</p>
-                             <p style="padding-bottom: 10px;">   It is the separation of fine particles and colloids from a liquid or of particulates from a gas using a porous membrane having pore sizes in the range 100-104 nm. Separation occurs by sieving mechanism at a low pressure difference(within 2 bar). A crossflow arrangement is preferred as it involves less accumulation of solid particles on the membrane. The feed usually is liquid/gas containing suspended particulates and the permeated species mostly is the suspending medium and liquid or gas.
-                            </p>
-                    <p style="text-align:left; font-size:18px; font-weight:bold;">Uses</p>
-                 <p style="padding-bottom: 10px;">Separation of cells, sterilization of liquid/ gas streams, separation of emulsified oil from water, clarification of liquids/beverages in food industries.</p>   
-                 <p style="text-align:left; font-size:18px; font-weight:bold;">ULTRAFILTRATION  </p>
+ <p style="text-align:left; font-size:18px; font-weight:bold;">MICROFILTRATION</p>
+<p style="padding-bottom: 10px;">   It is the separation of fine particles and colloids from a liquid or of particulates from a gas using a porous membrane having pore sizes in the range 100-104 nm. Separation occurs by sieving mechanism at a low pressure difference(within 2 bar). A crossflow arrangement is preferred as it involves less accumulation of solid particles on the membrane. The feed usually is liquid/gas containing suspended particulates and the permeated species mostly is the suspending medium and liquid or gas.
+</p>
+ <p style="text-align:left; font-size:18px; font-weight:bold;">Uses</p>
+ <p style="padding-bottom: 10px;">Separation of cells, sterilization of liquid/ gas streams, separation of emulsified oil from water, clarification of liquids/beverages in food industries.</p>   
+  <p style="text-align:left; font-size:18px; font-weight:bold;">ULTRAFILTRATION  </p>
   <p style="padding-bottom: 10px;">                  It is the process of separation or concentration by a sieving mechanism of a large molecular weight solute or a colloidal suspension by using a membrane having pore sizes in range of 1-100 nm(in between MF and RO). Some molecules get adsorbed on membrane surface, reducing the pore size significantly. The selectivity criterion of a UF membrane is commonly called molecular weight cut off. It requires a pressure difference of 1-10 bar. The feed may be liquid and the permeated species may be low Molecular weight solute and solvent.</p>
  <p style="text-align:left; font-size:18px; font-weight:bold;">Uses</p>                   
  <p style="padding-bottom: 10px;">Separation of biomolecules, proteins,emulsions, dispersed droplets, macromolecules, auto paints from solutions.</p>                   
@@ -51,9 +49,7 @@ The membrane pore size range is from 0.1 nm-1 nm. The separation mechanism is so
 The feed water to the RO unit must be preheated to remove suspended and dissolved membrane fouling agents.</p>                
  <p style="text-align:left; font-size:18px; font-weight:bold;">Uses</p>                 
  <p style="padding-bottom: 10px;">Desalination of sea water, brackish water, treatment of wastewater.</p>                 
-                  
-                                  
-                                       </div>
+
 
  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>    
  
