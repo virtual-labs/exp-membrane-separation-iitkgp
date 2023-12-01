@@ -48,7 +48,9 @@ For complete retention <br>
 R'=1 and Cm/Cb=exp(Jw/kL) </p>                
  <p style="text-align:left; font-size:18px; font-weight:bold;"> Gel polarization model</p>
  
-$$Due \ to \ concentration \ polarisation, \ the \ solute \ concentration \ at \ the \ membrane \ surface \ may \ be \ very \ large. \ Solutes \ like \ a \ polymer \ or \ protein \ may \ form \ a \ slimy \ layer \ called \ gel \ if \ a \ limiting \ concentration \ C_g \ is \ reached. \ At \ steady \ state, \ a \ constant \ thickness \ of \ the \ gel \ and \ a \ limiting \ flux J_0 \ are \ attained. \The \ macromolecules \ are \ transported \ to \ the \ membrane \ convectively \ as \ before \ and \ back \ diffused \ under \ the \ gradient (C_g-C_b). \ Total \ resistance \ is \ expressed \ as \ the \ sum \ of \ membrane \ and \ gel \ resistances.$$
+Due to concentration polarisation, the solute concentration at the membrane surface may be very large. Solutes like a polymer or protein may form a slimy layer called gel if a limiting concentration Cg
+ is reached. At steady state, a constant thickness of the gel and a limiting flux J0  are attained. The macromolecules are transported to the membrane convectively as before and back diffused under the gradient (Cg−Cb)
+. Total resistance is expressed as the sum of membrane and gel resistances.
 
 $$J_0= \frac{∆P}{µ*(R_m+R_g)}$$
 
