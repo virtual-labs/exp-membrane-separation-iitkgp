@@ -19,14 +19,23 @@ The most significant resistances are-<br>
 A decline in flux of solvent may occur due to the above resistances. Now let us analyse the situation with some mathematical equations-<br><br>
 
 $$Suppose \ J_w \ = \ solvent \ flux$$
+
 $$C_p =\ solute \ concentration$$
+
 C=local concentration of solute in the film or boundary layer<br>
+
 D=diffusivity of the solute<br>
-$$C_b =\solute \ concentration \ in \ the \ bulk \ solution$$
+
+$$C_b =solute \ concentration \ in \ the \ bulk \ solution$$
+
 $$C_m = \ solute \ concentration \ in \ the \ liquid \ in \ the \ membrane \ surface$$
+
 $$L=\ film \ or \ boundary \ layer \ thickness \ from \ where \ the \ concentration \ varies \ from C_m \ to \ C_b$$
+
 Solute flux through the membrane = Convective flux towards the membrane surface – Flux of back diffusion of the solute to the bulk of the liquid<br>
-$$=>J_w C_p=J_w C-(-D \frac{dC}{dz})$$             
+
+$$=>J_w C_p=J_w C-(-D \frac{dC}{dz})$$
+
 <p style="padding-bottom: 10px;">  For simple case take boundary conditions as<br>
 At z=0 C=Cm<br>
 At z=L C=Cb<br>
