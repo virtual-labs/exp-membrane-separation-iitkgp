@@ -46,13 +46,20 @@ $$\frac{C_m}{C_b}=\frac{exp(\frac{J_w}{kL})}{R'+(1-R')exp(\frac{J_w}{kL})}$$
 This increases with flux, with increasing retention R' and decreasing kL.<br>
 For complete retention <br>
 R'=1 and Cm/Cb=exp(Jw/kL) </p>                
- <p style="text-align:left; font-size:18px; font-weight:bold;"> Gel polarization model</p>                 
-<p style="padding-bottom: 10px;">Due \ to \ concentration \ polarisation, \ the \ solute \ concentration \ at \ the \ membrane \ surface \ may \ be \ very \ large. \ Solutes \ like \ a \ polymer \ or \ protein \ may \ form \ a \ slimy \ layer \ called \ gel \ if \ a \ limiting \ concentration \ C_g \ is \ reached. \ At \ steady \ state, \ a \ constant \ thickness \ of \ the \ gel \ and \ a \ limiting \ flux J_0 \ are \ attained. \The \ macromolecules \ are \ transported \ to \ the \ membrane \ convectively \ as \ before \ and \ back \ diffused \ under \ the \ gradient (C_g-C_b). \ Total \ resistance \ is \ expressed \ as \ the \ sum \ of \ membrane \ and \ gel \ resistances.
+ <p style="text-align:left; font-size:18px; font-weight:bold;"> Gel polarization model</p>
+ 
+$$Due \ to \ concentration \ polarisation, \ the \ solute \ concentration \ at \ the \ membrane \ surface \ may \ be \ very \ large. \ Solutes \ like \ a \ polymer \ or \ protein \ may \ form \ a \ slimy \ layer \ called \ gel \ if \ a \ limiting \ concentration \ C_g \ is \ reached. \ At \ steady \ state, \ a \ constant \ thickness \ of \ the \ gel \ and \ a \ limiting \ flux J_0 \ are \ attained. \The \ macromolecules \ are \ transported \ to \ the \ membrane \ convectively \ as \ before \ and \ back \ diffused \ under \ the \ gradient (C_g-C_b). \ Total \ resistance \ is \ expressed \ as \ the \ sum \ of \ membrane \ and \ gel \ resistances.$$
+
 $$J_0= \frac{∆P}{µ*(R_m+R_g)}$$
+
 <br>Also
+
 $$J_o=k_L ln(\frac{C_g-C_p}{C_b-C_p})$$
+
 $$If the solute rejection is high (C_pb)$$
-$$J_0=k_L(lnC_g-lnC_b)$$   
+
+$$J_0=k_L(lnC_g-lnC_b)$$
+
  <p style="text-align:left; font-size:18px; font-weight:bold;">REVERSE OSMOSIS</p>                 
  <p style="padding-bottom: 10px;"> When an aqueous solution of a substance is kept separated from water by a semi-permeable membrane in a two compartment cell, water diffuses through the membrane into the higher concentration compartment. This is osmosis and occurs because of difference of chemical potential of water between the two compartments. If the solution level is elevated, the flow of water through the membrane to the higher concentration side drops. This extra pressure due to the elevated level of the solution is called osmotic pressure(∏). An application of an extra pressure higher than osmotic pressure, chemical potential of water in solutions side becomes more than that of pure water. Under such a condition, flow of water occurs from solution side to the pure water side which is called reverse osmosis.
 The membrane pore size range is from 0.1 nm-1 nm. The separation mechanism is solution-diffusion. The feed might be salt solutions, sea water and the pressure difference applied is around 10-100 bar. The rejected species are mainly low molecular weight solutes and permeated species is mainly water.
